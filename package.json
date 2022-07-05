@@ -2,7 +2,10 @@
   "devDependencies": {
     "jest": "^28.1.2"
   },
-    "scripts": {
+  "scripts": {
     "test": "jest"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
   }
 }
